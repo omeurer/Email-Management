@@ -18,3 +18,5 @@ The process is described in the pdf document.
 You can run this notebook every month automatically with Kaggle. 
 
 I am not an expert (yet ;),just a student who loves data, and is concerned by the 876389 mails he has in its mailbox. Some process can be optimized : feel free to suggesst anything !
+
+[EMAIL MANAGEMENT.pdf](https://github.com/omeurer/Email-Management/files/7603228/EMAIL.MANAGEMENT.pdf)
