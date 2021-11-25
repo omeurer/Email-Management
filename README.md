@@ -13,4 +13,6 @@ With this notebook, you will be able to :
 4. Delete particular types of email according to different criteria, 
 5. Get familiar with the time librairy. 
 
+The process is describe in the pdf document.
+
 I am not an expert (yet ;),just a student who loves data, and is concerned by the 876389 mails he has in its mailbox. Some process can be optimized : feel free to suggesst anything !
