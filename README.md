@@ -1,5 +1,5 @@
 # Email-Management
-This notebook automatizes the cleaning of your mailbox, and thus help to avoid gas emission by data storage.
+This notebook automatizes the cleaning of your mailbox, and thus help to avoid energy consumption by data storage.
 
 The huge amount of mails we receive everyday is stored into servers. Email storing is thus reponsible of unnecessary gas emission. A great action that can be taken is to delete a lot of them. Nonetheless, if we do it by hand, we can't even select all the mails from a particular kind.
 
